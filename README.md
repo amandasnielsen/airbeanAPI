@@ -1,6 +1,6 @@
 # Mad Poopers - Airbean API ☕️
 
-## Co-authored with
+### Groupexamination co-authored with
 
 - Lisa Lillhannus
 - Daniel Fredriksson
